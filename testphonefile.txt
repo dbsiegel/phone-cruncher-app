@@ -1,0 +1,16 @@
+Anita Borg	212-867-5309
+Grace Hopper	(333) 555-1234
+Ada Lovelace	(408) 980-3462
+Adele Goldberg	(917) 654-3210
+Mary Lou Jepsen	615 738.7217
+Fran Allen	(206) 627-2346
+Elisa Bertino	206 625.2757
+Deborah Estrin	(212) 867.5309
+Sally Floyd	(212) 456.7355
+Sara Kiesler	(917) 654-321
+Daphne Koller	333. 555-1234
+Barbara Liskov	(716) 782-7266
+Mary Kenneth Keller	212.867.5309
+Radia Perlman	604 236-3466
+Karen Sparck Jones	333-555-1234
+Lixia Zhang	917 654-321
